@@ -1,0 +1,3 @@
+﻿  Virtual-Pets-main.cpp
+C:\Users\dnten\source\repos\l3-virtual-pets-poopy\Virtual-Pets-main.cpp(69,17): warning C4101: 'thisrollb': unreferenced local variable
+  L3-Virtual-Pets.vcxproj -> C:\Users\dnten\Source\Repos\l3-virtual-pets-poopy\x64\Debug\L3-Virtual-Pets.exe
